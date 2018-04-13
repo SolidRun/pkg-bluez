@@ -1,3 +1,10 @@
+bluez (5.47-1sr1) unstable; urgency=medium
+
+  * Non-maintainer upload.
+  * backport to stretch
+
+ -- Josua Mayer <josua@solid-run.com>  Fri, 13 Apr 2018 20:42:30 +0200
+
 bluez (5.47-1) unstable; urgency=medium
 
   * Update to 5.47. (Closes: #876849)
